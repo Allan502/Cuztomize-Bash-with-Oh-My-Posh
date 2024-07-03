@@ -5,7 +5,7 @@ Guide to customize bash in Ubuntu Distro
 
 Open your terminal and type the following command:
 
-| Instrucciones                                                                                              |
+| Instructions                                                                                              |
 |------------------------------------------------------------------------------------------------------------|
 | **1️⃣ Install Oh My Posh**                                                                                      |
 |    sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh` |
